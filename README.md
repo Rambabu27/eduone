@@ -34,7 +34,7 @@ project link: https://green-sand-0234aed00.2.azurestaticapps.net/
 ![ed contact](https://user-images.githubusercontent.com/103198409/198861508-2cde90bf-2800-49b8-ae55-70e1da48c0de.png)
 
 
--**Microsoft Azure Services**
+- **Microsoft Azure Services**
 
 
 ![azure service1](https://user-images.githubusercontent.com/103198409/198863818-01fdc284-dac7-41e7-9d68-e5040600c542.png)
