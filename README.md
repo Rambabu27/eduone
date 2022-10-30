@@ -1,4 +1,4 @@
-######**Eduone**######
+#**Eduone**
 
 Moving forwards,Eduone will be developed internally.As a result, we’re archiving the open source repository. This represents a significant “growing up” moment for Eduone as we strive to offer you the best education tools possible.
      Eduap will continue to evolve and improve based on your feedback. We’re growing faster than ever, and can’t wait to launch some very exciting new features in the coming months.
@@ -8,7 +8,7 @@ project link: https://green-sand-0234aed00.2.azurestaticapps.net/
 
 ##screenshots
 
-- **Home Page**
+- #**Home Page**
 
 
 ![eduone1](https://user-images.githubusercontent.com/103198409/198861444-a94bb427-a9c1-4fa3-956f-10cea6e82a88.png)
