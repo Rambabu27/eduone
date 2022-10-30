@@ -8,7 +8,7 @@ project link: https://green-sand-0234aed00.2.azurestaticapps.net/
 
 ##screenshots
 
-- #**Home Page**
+- **Home Page**
 
 
 ![eduone1](https://user-images.githubusercontent.com/103198409/198861444-a94bb427-a9c1-4fa3-956f-10cea6e82a88.png)
